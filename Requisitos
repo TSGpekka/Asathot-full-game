@@ -1,0 +1,92 @@
+Requisitos Mínimos
+Sistema Operacional:
+
+Windows 10 ou superior, ou uma distribuição Linux moderna (como Ubuntu, Fedora, etc.)
+
+MacOS (qualquer versão recente)
+
+Processador:
+
+Intel Core i3 ou equivalente (ou superior)
+
+Memória RAM:
+
+4 GB de RAM ou mais
+
+Espaço em Disco:
+
+Pelo menos 500 MB de espaço livre para o código e arquivos do jogo.
+
+Software Necessário:
+
+Python:
+
+Python 3.7 ou superior instalado no sistema.
+
+Bibliotecas de Python necessárias (instaláveis via pip):
+
+os (biblioteca padrão)
+
+time (biblioteca padrão)
+
+random (biblioteca padrão)
+
+Resolução de Tela:
+
+Recomendado: 1280x720 ou superior, pois o jogo tem uma interface de terminal (CLI).
+
+Conexão com a Internet:
+
+Necessária para simular a conexão com redes Wi-Fi e acessar sites da Darknet, embora o jogo seja basicamente offline.
+
+Requisitos Recomendados
+Sistema Operacional:
+
+Windows 11 ou superior, ou uma distribuição Linux moderna com suporte para Python 3.x (como Ubuntu, Fedora, etc.)
+
+MacOS 10.15 ou superior
+
+Processador:
+
+Intel Core i5 ou equivalente (ou superior)
+
+Memória RAM:
+
+8 GB ou mais
+
+Espaço em Disco:
+
+1 GB de espaço livre ou mais
+
+Software Necessário:
+
+Python:
+
+Python 3.8 ou superior recomendado.
+
+Bibliotecas de Python adicionais (instaláveis via pip):
+
+os, time, random (bibliotecas padrão)
+
+colorama (opcional, para colorir o terminal e melhorar a interface visual)
+
+Conexão com a Internet:
+
+Necessária para a parte de exploração da Darknet, simulando interações com sites e redes, embora o jogo funcione de maneira local.
+
+Como Rodar o Jogo
+Instalar Python:
+
+Baixe e instale o Python aqui.
+
+Instalar Dependências (caso queira expandir com bibliotecas adicionais):
+
+Se for necessário, instale pacotes como colorama para melhorar a aparência do terminal:
+
+bash
+Copiar
+Editar
+pip install colorama
+Rodar o Jogo:
+
+Clique com o botão direito no arquivo e selecione Python 3.11, facilmente encontrado na Microsoft Store
